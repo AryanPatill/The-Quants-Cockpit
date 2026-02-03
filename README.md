@@ -136,7 +136,3 @@ python -m streamlit run app.py
 
 * Master's in Data Science @ RIT
 * [LinkedIn Profile](https://www.linkedin.com/in/aryanpatil18/)
-
-```
-
-```
