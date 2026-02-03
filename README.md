@@ -11,7 +11,7 @@
 
 ## 📸 Dashboard Preview
 
-![Dashboard View](C:\Aryan\Project\The-Quant-s-Cockpit-\screenshots\MainPage.png)
+![Dashboard View](screenshots/MainPage.png)
 
 ---
 
